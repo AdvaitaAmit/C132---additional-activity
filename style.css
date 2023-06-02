@@ -1,0 +1,15 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+body{
+    background-color: rgb(116, 94, 160);
+}
+
+h3{
+    background-color: rgb(94, 37, 148);
+    color: white;
+    border-radius: 20px;
+}
